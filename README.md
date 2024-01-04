@@ -7,8 +7,8 @@ Full Stack Developer
 I aspire to use my technological and leadership skills in an admired company. Tech-savvy and a fast learner with inherent communication expertise and natural curiosity to grow and learn.
 
 *   🌍  I'm based in Gurugram
-*   ✉️  You can contact me at [pearlarora2k1@gmail.com](mailto:pearlarora2k1@gmail.com)
-*   🧠  I'm learning Flutter
+*   ✉️  You can contact me at [ipearlarora@gmail.com](mailto:ipearlarora@gmail.com)
+*   🧠  I'm learning Node.js
 
 ### Skills
 
